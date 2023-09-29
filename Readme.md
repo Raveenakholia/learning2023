@@ -1,0 +1,1 @@
+# This is my learning journey for the 2023 and it includes step by step and the path I have followed for my Switch.
