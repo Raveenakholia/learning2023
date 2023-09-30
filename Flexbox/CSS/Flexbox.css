@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+}
+
+.flex-container {
+    border: 1px solid black;
+}
+
+.item-1 {
+    background-color: aliceblue;
+}
+
+.item-2 {
+    background-color: cadetblue;
+}
+.item-3 {
+    background-color: cadetblue;
+}
+.item-4 {
+    background-color: cadetblue;
+}
+.item-5 {
+    background-color: cadetblue;
+}
+.item-6 {
+    background-color: cadetblue;
+}
+.item-7 {
+    background-color: cadetblue;
+}
+.item-8 {
+    background-color: cadetblue;
+}
+.item-9 {
+    background-color: cadetblue;
+}
+.item-10 {
+    background-color: cadetblue;
+}
