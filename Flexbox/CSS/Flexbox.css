@@ -4,6 +4,7 @@ body{
 
 .flex-container {
     border: 1px solid black;
+    display: inline-flex;
 }
 
 .item-1 {
@@ -11,13 +12,13 @@ body{
 }
 
 .item-2 {
-    background-color: cadetblue;
+    background-color: rgb(199, 155, 80);
 }
 .item-3 {
-    background-color: cadetblue;
+    background-color: rgb(44, 179, 17);
 }
 .item-4 {
-    background-color: cadetblue;
+    background-color: rgb(12, 42, 150);
 }
 .item-5 {
     background-color: cadetblue;
