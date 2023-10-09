@@ -1,9 +1,7 @@
-<!DOCTYPE html>
-<head>
-    <link rel="stylesheet" href="../css/Flexbox.css">
-</head>
-<body>
-    <div class="flex-container" id="flex-container">
+
+function FlexBox (){
+    return (
+        <div class="flex-container" id="flex-container">
         <div class="flex-item">
             <div class="item-1 ">Item 1</div>
             <div class="item-2 ">Item 2</div>
@@ -17,4 +15,9 @@
             <div class="item-10 ">Item 10</div>
         </div>
     </div>
-</body>
+        
+)
+}
+
+export default FlexBox;
+    
